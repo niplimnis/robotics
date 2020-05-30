@@ -29,13 +29,19 @@
 •	Να ενημερωθεί/ευαισθητοποιηθεί η τοπική κοινωνία
 Προαπαιτούμενες γνώσεις
 
-•	Τα παιδιά ήταν εξοικειωμένα με το ρομπότ Edison και με το λογισμικό EdBlocks. 
+•	Τα παιδιά ήταν εξοικειωμένα με το ρομπότ Edison και με το λογισμικό EdBlocks (https://youtu.be/r427bxZAtcc). 
 
 •	Είχαν προηγηθεί δραστηριότητες σχετικές με τη χρήση και λειτουργία των κωδικών QR.
 
-(Στην ιστοσελίδα του σχολείου μας ΕΔΩ, ΕΔΩ, ΕΔΩ και ΕΔΩ μπορείτε να δείτε αναλυτικά τις δραστηριότητες που υλοποιήσαμε )
+Στην ιστοσελίδα του σχολείου μας μπορείτε να δείτε αναλυτικά τις δραστηριότητες που υλοποιήσαμε 
 
 http://nip-limnis.eyv.sch.gr/autosch/joomla15/index.php/kainotoma-programmata/etwinning-stem-yes-i-can-do-it/486-kynigi-krymmenou-thisavroy-me-kartes-qr-etwinning-stem-yes-i-can-do-it
+
+http://nip-limnis.eyv.sch.gr/autosch/joomla15/index.php/kainotoma-programmata/etwinning-stem-yes-i-can-do-it/490-qr-kartes-taftotites-etwinning-stem-yes-i-can-do-it
+
+http://nip-limnis.eyv.sch.gr/autosch/joomla15/index.php/kainotoma-programmata/etwinning-paramythenia-mathimatika-fairytale-mathematics/488-paixnidi-me-qr-kodikes-etwinning-paramythenia-mathimatika-fairytale-mathematics-stem
+
+
 
 # Περιγραφή /Διαδικασία κατασκευής
 Τα παιδιά έφτιαξαν μία μακέτα της κωμόπολής τους. Στο σημείο εκκίνησης του ρομπότ Edison («Σχολείο») είναι στοιβαγμένα τα απορρίμματα- έγχρωμες εικόνες ανακυκλώσιμων (από χαρτί, πλαστικό, γυαλί, αλουμίνιο, οργανικά απόβλητα) και μη ανακυκλώσιμων αντικειμένων. Από εκεί ξεκινούν δύο δρόμοι διαφορετικής κατεύθυνσης.
