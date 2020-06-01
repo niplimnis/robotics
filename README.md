@@ -22,7 +22,7 @@
 
 •	Να ευαισθητοποιηθούν και να αποκτήσουν περιβαλλοντική συνείδηση.
 
-•	Να αποκτήσουν δεξιότητες επίλυσης προβλημάτων, κριτικής και υπολογιστικής σκέψης, προγραμματισμού.
+•	Να αποκτήσουν δεξιότητες επίλυσης προβλημάτων, κριτικής και υπολογιστικής σκέψης, κωδικοποίησης και προγραμματισμού.
 
 •	Να καλλιεργήσουν ικανότητες συνεργασίας, επικοινωνίας, ομαδικότητας.
 
@@ -33,11 +33,13 @@
 
 •	Είχαν προηγηθεί δραστηριότητες σχετικές με τη χρήση και λειτουργία των κωδικών QR.
 
-Στην ιστοσελίδα του σχολείου μας μπορείτε να δείτε αναλυτικά τις δραστηριότητες που υλοποιήσαμε 
+Στην ιστοσελίδα του σχολείου μας μπορείτε να δείτε αναλυτικά τις δραστηριότητες που υλοποιήσαμε. 
 
 http://nip-limnis.eyv.sch.gr/autosch/joomla15/index.php/kainotoma-programmata/etwinning-stem-yes-i-can-do-it/486-kynigi-krymmenou-thisavroy-me-kartes-qr-etwinning-stem-yes-i-can-do-it
 
 http://nip-limnis.eyv.sch.gr/autosch/joomla15/index.php/kainotoma-programmata/etwinning-stem-yes-i-can-do-it/490-qr-kartes-taftotites-etwinning-stem-yes-i-can-do-it
+
+http://nip-limnis.eyv.sch.gr/autosch/joomla15/index.php/kainotoma-programmata/etwinning-stem-yes-i-can-do-it/498-apo-ta-simata-kapnoy-ton-indianon-ston-kodika-mors-kai-stous-qr-kodikes
 
 http://nip-limnis.eyv.sch.gr/autosch/joomla15/index.php/kainotoma-programmata/etwinning-paramythenia-mathimatika-fairytale-mathematics/488-paixnidi-me-qr-kodikes-etwinning-paramythenia-mathimatika-fairytale-mathematics-stem
 
