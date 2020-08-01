@@ -120,7 +120,7 @@ https://drive.google.com/file/d/12acrwesNEIOHZx6I0rCLN6ucRBQsqMGO/view?usp=shari
 
 https://www.evima.gr/politiki/tsapourniotis-sto-nipiagogio-limnistha-lavoume-sovara-tin-protasi-sas-gia-tin-anakyklosi/?fbclid=IwAR3QNjKNA7Ql0jxmh5FXlbPWl4NFVTzzrE1DIC0mtMgJqZtsO99w8Mes2bo
 
-Επίσης, η πρότασή μας συμπεριλήφθηκε στις «ΚΑΛΕΣ ΠΡΑΚΤΙΚΕΣ», στο αποθετηρίου του Π.Ε.Κ.Ε.Σ Στερεάς Ελλάδας, από τις Συντονίστριες Εκπαιδευτικού Έργου.
+Επίσης, η πρότασή μας συμπεριλήφθηκε στις «ΚΑΛΕΣ ΠΡΑΚΤΙΚΕΣ», στο αποθετήριο του Π.Ε.Κ.Ε.Σ Στερεάς Ελλάδας, από τις Συντονίστριες Εκπαιδευτικού Έργου.
 
 http://stellad.pde.sch.gr/pekes/?page_id=810&fbclid=IwAR0x4f-hzAs3PGCyizYZ4J3THLTsycQDc_qyn0JD_S4hLm5PK4IQfqaaLxo
 
